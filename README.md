@@ -1,7 +1,8 @@
 <div align="center">
 
 # Andrés Joshua León Barranco
-### Desarrollador full-stack · Ingeniería en sistemas computacionales
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Desarrollador+Full-Stack;Automatizaci%C3%B3n+%26+chatbots+con+IA;AWS+%26+administraci%C3%B3n+de+servidores;Bases+de+datos+y+APIs" alt="Typing SVG" /></a>
 
 <a href="mailto:joshualeba2109@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-joshualeba2109%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
 <a href="https://github.com/joshualeba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-joshualeba-0d1117?style=flat-square&logo=github" /></a>
@@ -38,9 +39,9 @@ Estudio ingeniería en sistemas computacionales en la Universidad Politécnica d
 <tr>
 <td width="100%">
 
-#### 🤖 <a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">Panel BLAJ Digital</a>
+#### <a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">Panel BLAJ Digital</a>
 
-El corazón operativo de mi propia agencia. Aquí es donde gestiono a los clientes, dejo que el sistema saque información de sitios web por su cuenta y genero chatbots casi automáticamente a partir de lo que el cliente me da. También conecta formularios externos por API y me muestra métricas de todo lo que va pasando, para no andar revisando todo a mano.
+Panel interno que uso para administrar los clientes de BLAJ Digital. Hace scraping de sitios web para extraer información sin que yo tenga que hacerlo a mano, genera chatbots a partir de los datos que me da cada cliente, y expone una API para conectar formularios externos al sistema. Incluye una vista de métricas para revisar el estado de todo desde un solo lugar.
 
 <img src="https://img.shields.io/badge/-Web_scraping-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Chatbots-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-API-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Dashboard_de_métricas-1a1a2e?style=flat-square" />
 
@@ -49,9 +50,9 @@ El corazón operativo de mi propia agencia. Aquí es donde gestiono a los client
 <tr>
 <td width="100%">
 
-#### 💰 <a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>
+#### <a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>
 
-Una plataforma para que cualquier persona entienda mejor sus finanzas sin sentirse abrumada. Tiene simuladores de ahorro, crédito, inversión, presupuesto y retiro, además de una calculadora de deuda y un diagnóstico que te dice, con recomendaciones concretas, cómo vas. Le metí un chatbot con IA (usando la API de Groq) para resolver dudas al vuelo, un quiz con ranking global para que la gente compita un poco, y hasta una comparativa en tiempo real de SOFIPOs. Construida con Flask y PostgreSQL, con una interfaz de vidrio esmerilado (glassmorphism) y scroll suave que se siente bien al usar.
+Plataforma web de educación y simulación financiera, construida con Flask y PostgreSQL. Incluye simuladores de ahorro, crédito, inversión, presupuesto personal y retiro, más una calculadora de deuda y un diagnóstico financiero con recomendaciones. Tiene un chatbot con IA (API de Groq) para resolver dudas, un test de conocimientos con ranking global, una comparativa de SOFIPOs en tiempo real, y un panel administrativo para gestionar usuarios y contenido.
 
 <img src="https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-IA_con_Groq-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Panel_admin-1a1a2e?style=flat-square" />
 
@@ -60,9 +61,9 @@ Una plataforma para que cualquier persona entienda mejor sus finanzas sin sentir
 <tr>
 <td width="100%">
 
-#### 📐 <a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>
+#### <a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>
 
-Un juego para aprender geometría sin que se sienta como tarea. Va subiendo de dificultad poco a poco a lo largo de 50 niveles: primero áreas y perímetros de figuras simples, luego triángulos y trapecios, y al final el jugador tiene que despejar variables como si estuviera resolviendo álgebra de verdad. Tiene rachas diarias, logros y avatares que se desbloquean, para que dé ganas de volver. La hice con React Native y Expo, usando Firebase para guardar el progreso de cada quien.
+App educativa de matemáticas, desarrollada con React Native, Expo y TypeScript. Tiene 50 niveles con dificultad progresiva: empieza con cálculo directo de áreas y perímetros, avanza a figuras geométricas más complejas, y termina con despejes algebraicos donde el jugador resuelve la variable faltante. Incluye sistema de logros, avatares desbloqueables y rachas diarias. Usa Firebase para autenticación y almacenamiento de datos.
 
 <img src="https://img.shields.io/badge/-React_Native-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Expo-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square" />
 
@@ -76,8 +77,6 @@ Un juego para aprender geometría sin que se sienta como tarea. Va subiendo de d
   <img src="https://raw.githubusercontent.com/joshualeba/github-stats/generated/overview.svg" alt="Estadísticas de GitHub" />
   <img src="https://raw.githubusercontent.com/joshualeba/github-stats/generated/languages.svg" alt="Lenguajes más usados" />
 </div>
-
-> Estas tarjetas se generan directamente desde mi repositorio, no dependen de ningún servicio externo — por eso siempre cargan.
 
 </details>
 
@@ -108,9 +107,9 @@ I'm studying computer systems engineering at Universidad Politécnica de Querét
 <tr>
 <td width="100%">
 
-#### 🤖 <a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">BLAJ Digital panel</a>
+#### <a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">BLAJ Digital panel</a>
 
-The operational core of my own agency. This is where I manage clients, let the system scrape data off websites on its own, and generate chatbots almost automatically from whatever the client gives me. It also connects external forms through an API and shows me metrics on everything that's happening, so I don't have to check things by hand.
+Internal panel I use to manage BLAJ Digital's clients. It scrapes websites to pull data without doing it by hand, generates chatbots from whatever information each client provides, and exposes an API to connect external forms to the system. It includes a metrics view to check the state of everything from one place.
 
 <img src="https://img.shields.io/badge/-Web_scraping-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Chatbots-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-API-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Metrics_dashboard-1a1a2e?style=flat-square" />
 
@@ -119,9 +118,9 @@ The operational core of my own agency. This is where I manage clients, let the s
 <tr>
 <td width="100%">
 
-#### 💰 <a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>
+#### <a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>
 
-A platform to help people understand their finances without feeling overwhelmed. It has simulators for savings, credit, investing, budgeting, and retirement, plus a debt calculator and a diagnostic tool that gives concrete recommendations. I added an AI chatbot (running on the Groq API) to answer questions on the spot, a quiz with a global ranking so people can compete a little, and even a real-time comparison of SOFIPOs. Built with Flask and PostgreSQL, with a glassmorphism interface and smooth scrolling that just feels good to use.
+Financial education and simulation web platform, built with Flask and PostgreSQL. It includes simulators for savings, credit, investing, personal budgeting, and retirement, plus a debt calculator and a financial diagnostic tool with recommendations. It has an AI chatbot (Groq API) for answering questions, a knowledge quiz with a global ranking, a real-time SOFIPO comparison, and an admin panel for managing users and content.
 
 <img src="https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Groq_AI-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Admin_panel-1a1a2e?style=flat-square" />
 
@@ -130,9 +129,9 @@ A platform to help people understand their finances without feeling overwhelmed.
 <tr>
 <td width="100%">
 
-#### 📐 <a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>
+#### <a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>
 
-A game for learning geometry that doesn't feel like homework. Difficulty ramps up gradually across 50 levels: simple areas and perimeters first, then triangles and trapezoids, and by the end the player is solving for variables like real algebra. It has daily streaks, achievements, and unlockable avatars to keep people coming back. Built with React Native and Expo, using Firebase to save everyone's progress.
+Educational math app, built with React Native, Expo, and TypeScript. It has 50 levels with progressive difficulty: it starts with direct calculation of areas and perimeters, moves on to more complex geometric shapes, and ends with algebraic solving where the player finds the missing variable. It includes an achievement system, unlockable avatars, and daily streaks. Uses Firebase for authentication and data storage.
 
 <img src="https://img.shields.io/badge/-React_Native-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Expo-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square" />
 
@@ -146,7 +145,5 @@ A game for learning geometry that doesn't feel like homework. Difficulty ramps u
   <img src="https://raw.githubusercontent.com/joshualeba/github-stats/generated/overview.svg" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/joshualeba/github-stats/generated/languages.svg" alt="Top languages" />
 </div>
-
-> These cards are generated straight from my own repository, so they don't depend on any third-party service — they always load.
 
 </details>
