@@ -3,9 +3,9 @@
 # Andrés Joshua León Barranco
 ### Desarrollador Full-Stack · Ingeniería en Sistemas Computacionales
 
-[![Email](https://img.shields.io/badge/-joshualeba2109%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:joshualeba2109@gmail.com)
-[![GitHub](https://img.shields.io/badge/-joshualeba-0d1117?style=flat-square&logo=github)](https://github.com/joshualeba)
-[![BLAJ Digital](https://img.shields.io/badge/-BLAJ%20Digital-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://blaj.netlify.app)
+<a href="mailto:joshualeba2109@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-joshualeba2109%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+<a href="https://github.com/joshualeba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-joshualeba-0d1117?style=flat-square&logo=github" /></a>
+<a href="https://blaj.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-BLAJ%20Digital-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" /></a>
 
 </div>
 
@@ -20,29 +20,40 @@ Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad Poli
 
 ### Stack técnico
 
+<div align="center">
+
 | Frontend | Backend | Datos | Infra & Herramientas |
 |:---:|:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| | | | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/> |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="32"/> |
+| <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/> |
+| | | | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="32"/> |
+
+</div>
 
 ### Proyectos destacados
 
-**[Mercy-Foods](https://github.com/joshualeba/Mercy-Foods)** — Plataforma web de delivery de comida
-Sistema completo con tres paneles independientes según rol de usuario.
-- Panel de **cliente**: registro, login y pedido de productos.
-- Panel de **restaurante**: gestión de menú y pedidos entrantes.
-- Panel de **repartidor**: seguimiento y entrega de pedidos.
-- Backend en PHP con base de datos MySQL; frontend en HTML/CSS/JS.
-
-**[Panel BLAJ Digital](https://blaj-chatbot.vercel.app/login)** — Dashboard de automatización para agencia
+**<a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">Panel BLAJ Digital</a>** — Dashboard de automatización para agencia
 Panel interno para gestionar clientes y servicios de la agencia.
 - Web scraping para extracción automática de datos.
 - Generación de chatbots a partir de información del cliente.
 - API con endpoints para conectar formularios externos al panel.
 - Interfaz de métricas para visualizar datos recolectados.
+
+**<a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>** — Plataforma web de educación y simulación financiera
+Sistema desarrollado con Flask y PostgreSQL/SQLite para mejorar la salud financiera de los usuarios.
+- Simuladores de ahorro, crédito, inversión, presupuesto, retiro y calculadora de deuda.
+- Diagnóstico financiero personalizado con recomendaciones automáticas.
+- Chatbot con IA (Mercy IA) impulsado por la API de Groq.
+- Test de conocimientos con ranking global y comparativa de SOFIPOs en tiempo real.
+- Panel administrativo completo; interfaz con glassmorphism y scroll suave (Lenis).
+
+**<a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>** — App educativa de matemáticas
+Aplicación móvil desarrollada con React Native, Expo y TypeScript para enseñar geometría y álgebra.
+- 50 niveles con dificultad progresiva: áreas y perímetros → figuras complejas → despejes algebraicos.
+- Sistema de recompensas, avatares desbloqueables, logros y rachas diarias.
+- Autenticación y datos con Firebase; animaciones con React Native Reanimated.
 
 ### Estadísticas de GitHub
 
@@ -50,11 +61,6 @@ Panel interno para gestionar clientes y servicios de la agencia.
   <img src="https://github-readme-stats.vercel.app/api?username=joshualeba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=es" height="150" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualeba&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Lenguajes más usados" />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joshualeba&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Racha de GitHub" />
-</div>
-
-> Si alguna tarjeta no carga a la primera, refresca la página — son servicios gratuitos de terceros (Vercel) y a veces tardan unos segundos en responder.
 
 </details>
 
@@ -67,29 +73,40 @@ Computer Systems Engineering student at Universidad Politécnica de Querétaro. 
 
 ### Technical Stack
 
+<div align="center">
+
 | Frontend | Backend | Data | Infra & Tools |
 |:---:|:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| | | | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/> |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="32"/> |
+| <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/> |
+| | | | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="32"/> |
+
+</div>
 
 ### Featured Projects
 
-**[Mercy-Foods](https://github.com/joshualeba/Mercy-Foods)** — Food delivery web platform
-Full system with three independent role-based dashboards.
-- **Customer** panel: signup, login, and ordering.
-- **Restaurant** panel: menu and incoming order management.
-- **Courier** panel: order tracking and delivery.
-- PHP backend with a MySQL database; HTML/CSS/JS frontend.
-
-**[BLAJ Digital Panel](https://blaj-chatbot.vercel.app/login)** — Agency automation dashboard
+**<a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">BLAJ Digital Panel</a>** — Agency automation dashboard
 Internal panel to manage agency clients and services.
 - Web scraping for automatic data extraction.
 - Chatbot generation from client information.
 - API endpoints connecting external forms to the panel.
 - Metrics interface to visualize collected data.
+
+**<a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>** — Financial education & simulation web platform
+System built with Flask and PostgreSQL/SQLite to help users improve their financial health.
+- Savings, credit, investment, budget, retirement, and debt simulators.
+- Personalized financial diagnostic with automatic recommendations.
+- AI chatbot (Mercy IA) powered by the Groq API.
+- Knowledge quiz with a global ranking and real-time SOFIPO comparison.
+- Full admin panel; glassmorphism UI with smooth scrolling (Lenis).
+
+**<a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>** — Educational math app
+Mobile app built with React Native, Expo, and TypeScript to teach geometry and algebra.
+- 50 progressively harder levels: areas and perimeters → complex shapes → algebraic solving.
+- Reward system, unlockable avatars, achievements, and daily streaks.
+- Firebase authentication and data; animations with React Native Reanimated.
 
 ### GitHub Stats
 
@@ -97,10 +114,5 @@ Internal panel to manage agency clients and services.
   <img src="https://github-readme-stats.vercel.app/api?username=joshualeba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualeba&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joshualeba&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
-> If a card doesn't load right away, refresh the page — these are free third-party services (Vercel) and can take a few seconds to respond.
 
 </details>
