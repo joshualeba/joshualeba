@@ -1,226 +1,106 @@
-<!-- Selector de Idioma (Toggle) -->
-<div align="right">
-  <a href="#esp"><b>🇪🇸 Español</b></a> | <a href="#eng"><b>🇺🇸 English</b></a>
+<div align="center">
+
+# Andrés Joshua León Barranco
+### Desarrollador Full-Stack · Ingeniería en Sistemas Computacionales
+
+[![Email](https://img.shields.io/badge/-joshualeba2109%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:joshualeba2109@gmail.com)
+[![GitHub](https://img.shields.io/badge/-joshualeba-0d1117?style=flat-square&logo=github)](https://github.com/joshualeba)
+[![BLAJ Digital](https://img.shields.io/badge/-BLAJ%20Digital-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://blaj.netlify.app)
+
 </div>
 
-<a id="esp"></a>
 ---
 
-# Versión en Español 🇪🇸
-
-<div align="center">
-  <!-- Banner animado usando readme-typing-svg -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Andr%C3%A9s+Joshua+Le%C3%B3n+Barranco;Desarrollador+Full-Stack;Estudiante+de+Ingenier%C3%ADa;Programador+Backend" alt="Typing SVG" />
-  </a>
-</div>
+<details open>
+<summary><b>🇪🇸 Ver en Español</b></summary>
 
 <br/>
 
-<div align="center">
-  <p align="center">
-    Estudiante de <b>ingeniería en sistemas computacionales</b> en la Universidad Politécnica de Querétaro.
-    <br/>
-    Tengo experiencia creando aplicaciones web, configurando servidores en <b>AWS</b> y dando <b>soporte TI</b>.
-    <br/>
-    Actualmente trabajo por mi cuenta como desarrollador y administrador de sistemas en <b>BLAJ Digital</b>. Me gusta aprender por mi cuenta y crear proyectos desde cero.
-  </p>
-</div>
+Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad Politécnica de Querétaro. Construyo aplicaciones web de extremo a extremo — frontend, backend, base de datos y despliegue — y administro infraestructura en AWS. Actualmente dirijo **BLAJ Digital**, una agencia donde diseño, desarrollo y doy soporte técnico a soluciones digitales para negocios locales.
 
----
+### Stack técnico
 
-### Habilidades técnicas
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Bases de Datos</b></td>
-    <td align="center" width="25%"><b>DevOps & Infra</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/><br/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/><br/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /><br/><br/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /><br/><br/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-    </td>
-  </tr>
-</table>
-
----
+| Frontend | Backend | Datos | Infra & Herramientas |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| | | | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
 
 ### Proyectos destacados
 
-> **Mercy React** | *Asistente financiero web y móvil*
-> 
-> Aplicación personal para llevar el control de finanzas.
-> * **Frontend:** Interfaz desarrollada en React Native.
-> * **Backend:** Servidor en Python.
-> * **Nube:** Desplegado en servidores de AWS.
-> * **Monitoreo:** Panel de métricas en tiempo real con Prometheus y Grafana.
-> * **Seguridad:** Pruebas de seguridad usando Kali Linux.
+**[Mercy-Foods](https://github.com/joshualeba/Mercy-Foods)** — Plataforma web de delivery de comida
+Sistema completo con tres paneles independientes según rol de usuario.
+- Panel de **cliente**: registro, login y pedido de productos.
+- Panel de **restaurante**: gestión de menú y pedidos entrantes.
+- Panel de **repartidor**: seguimiento y entrega de pedidos.
+- Backend en PHP con base de datos MySQL; frontend en HTML/CSS/JS.
 
-<br/>
-
-> **Panel BLAJ Digital** | *Dashboard de automatización*
-> 
-> Panel de uso interno para gestionar datos de la agencia.
-> * **Web Scraping:** Script para extraer datos de sitios web de forma automática.
-> * **Chatbots:** Sistema para generar bots a partir de la información del cliente.
-> * **API:** Creación de endpoints para conectar formularios externos con el panel.
-> * **Métricas:** Interfaz para visualizar el análisis de los datos recolectados.
-
----
+**[Panel BLAJ Digital](https://blaj-chatbot.vercel.app/login)** — Dashboard de automatización para agencia
+Panel interno para gestionar clientes y servicios de la agencia.
+- Web scraping para extracción automática de datos.
+- Generación de chatbots a partir de información del cliente.
+- API con endpoints para conectar formularios externos al panel.
+- Interfaz de métricas para visualizar datos recolectados.
 
 ### Estadísticas de GitHub
 
 <div align="center">
-  <!-- Agregando &locale=es para que las tarjetas salgan en español -->
-  <img src="https://github-readme-stats.vercel.app/api?username=joshualeba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=es" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshualeba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=es" height="150" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualeba&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Lenguajes más usados" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=joshualeba&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Racha de GitHub" />
+</div>
+
+> Si alguna tarjeta no carga a la primera, refresca la página — son servicios gratuitos de terceros (Vercel) y a veces tardan unos segundos en responder.
+
+</details>
+
+<details>
+<summary><b>🇺🇸 View in English</b></summary>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshualeba&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Racha de GitHub" />
-</div>
+Computer Systems Engineering student at Universidad Politécnica de Querétaro. I build end-to-end web applications — frontend, backend, database, and deployment — and manage AWS infrastructure. I currently run **BLAJ Digital**, an agency where I design, develop, and provide technical support for digital solutions for local businesses.
 
----
+### Technical Stack
 
-### Contacto
-
-<div align="center">
-  <a href="mailto:joshualeba2109@gmail.com">
-    <img src="https://img.shields.io/badge/joshualeba2109@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Correo electrónico"/>
-  </a>
-</div>
-
-<br/><br/><br/>
-
-<a id="eng"></a>
----
-
-# English Version 🇺🇸
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Andr%C3%A9s+Joshua+Le%C3%B3n+Barranco;Full-Stack+Developer;Systems+Engineering+Student;Backend+Programmer" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <p align="center">
-    <b>Computer Systems Engineering</b> student at Universidad Politécnica de Querétaro.
-    <br/>
-    I have experience building web applications, setting up <b>AWS</b> servers, and providing <b>IT support</b>.
-    <br/>
-    Currently working as a freelance developer and sysadmin at <b>BLAJ Digital</b>. I enjoy self-learning and building projects from scratch.
-  </p>
-</div>
-
----
-
-### Technical Skills
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Databases</b></td>
-    <td align="center" width="25%"><b>DevOps & Infra</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/><br/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/><br/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /><br/><br/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /><br/><br/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-    </td>
-  </tr>
-</table>
-
----
+| Frontend | Backend | Data | Infra & Tools |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| | | | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
 
 ### Featured Projects
 
-> **Mercy React** | *Web & Mobile Financial Assistant*
-> 
-> Personal app for financial tracking.
-> * **Frontend:** Interface built with React Native.
-> * **Backend:** Server written in Python.
-> * **Cloud:** Deployed on AWS.
-> * **Monitoring:** Real-time metrics dashboard using Prometheus and Grafana.
-> * **Security:** Basic security testing using Kali Linux.
+**[Mercy-Foods](https://github.com/joshualeba/Mercy-Foods)** — Food delivery web platform
+Full system with three independent role-based dashboards.
+- **Customer** panel: signup, login, and ordering.
+- **Restaurant** panel: menu and incoming order management.
+- **Courier** panel: order tracking and delivery.
+- PHP backend with a MySQL database; HTML/CSS/JS frontend.
 
-<br/>
-
-> **BLAJ Digital Dashboard** | *Automation Dashboard*
-> 
-> Internal panel to manage agency data.
-> * **Web Scraping:** Script to automatically extract data from websites.
-> * **Chatbots:** System to generate bots based on client information.
-> * **API:** Created endpoints to connect external forms to the dashboard.
-> * **Analytics:** Interface to visualize collected data.
-
----
+**[BLAJ Digital Panel](https://blaj-chatbot.vercel.app/login)** — Agency automation dashboard
+Internal panel to manage agency clients and services.
+- Web scraping for automatic data extraction.
+- Chatbot generation from client information.
+- API endpoints connecting external forms to the panel.
+- Metrics interface to visualize collected data.
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshualeba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshualeba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualeba&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
-
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshualeba&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joshualeba&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
----
+> If a card doesn't load right away, refresh the page — these are free third-party services (Vercel) and can take a few seconds to respond.
 
-### Contact
-
-<div align="center">
-  <a href="mailto:joshualeba2109@gmail.com">
-    <img src="https://img.shields.io/badge/joshualeba2109@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
-  </a>
-</div>
+</details>
