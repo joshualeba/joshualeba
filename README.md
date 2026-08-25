@@ -4,16 +4,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Desarrollador+Full-Stack;Automatizaci%C3%B3n+%26+chatbots+con+IA;AWS+%26+administraci%C3%B3n+de+servidores;Bases+de+datos+y+APIs" alt="Typing SVG" /></a>
 
-<a href="mailto:joshualeba2109@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-joshualeba2109%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
-<a href="https://github.com/joshualeba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-joshualeba-0d1117?style=flat-square&logo=github" /></a>
-<a href="https://blaj.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-BLAJ%20Digital-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" /></a>
+<a href="mailto:joshualeba2109@gmail.com"><img src="https://img.shields.io/badge/-joshualeba2109%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+<a href="https://github.com/joshualeba"><img src="https://img.shields.io/badge/-joshualeba-0d1117?style=flat-square&logo=github" /></a>
+<a href="https://blaj.netlify.app"><img src="https://img.shields.io/badge/-BLAJ%20Digital-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" /></a>
 
 </div>
 
 ---
 
 <details open>
-<summary><b>🇪🇸 Ver en español</b></summary>
+<summary><b>Ver en español</b></summary>
 
 <br/>
 
@@ -23,53 +23,88 @@ Estudio ingeniería en sistemas computacionales en la Universidad Politécnica d
 
 <div align="center">
 
-| Frontend | Backend | Datos | Infra & herramientas |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="32"/> |
-| <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/> |
-| | | | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="32"/> |
+  <h4>Frontend</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <br/>
+  
+  <h4>Backend</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+  <br/>
+
+  <h4>Bases de datos</h4>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+  <br/>
+
+  <h4>Infraestructura y herramientas</h4>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+  <br/>
+
+  <h4>Marketing</h4>
+  <img src="https://img.shields.io/badge/Meta_Ads-0468D7?style=for-the-badge&logo=meta&logoColor=white" />
 
 </div>
 
 ### Lo que he construido
 
-<table>
-<tr>
-<td width="100%">
+#### [Panel BLAJ Digital](https://github.com/joshualeba/BLAJ_chatbot)
 
-#### <a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">Panel BLAJ Digital</a>
+> **Sistema interno integral para la administración y automatización de clientes de la agencia BLAJ Digital.**
 
-Panel interno que uso para administrar los clientes de BLAJ Digital. Hace scraping de sitios web para extraer información sin que yo tenga que hacerlo a mano, genera chatbots a partir de los datos que me da cada cliente, y expone una API para conectar formularios externos al sistema. Incluye una vista de métricas para revisar el estado de todo desde un solo lugar.
+- **Web scraping autónomo:** Extracción automática de datos desde los sitios web de los clientes.
+- **Generación de chatbots:** Creación dinámica de asistentes virtuales con IA basados en la información recolectada.
+- **API Restful:** Integración perfecta para conectar formularios externos con el sistema.
+- **Dashboard analítico:** Vista centralizada de métricas en tiempo real para evaluar el estado global de la agencia.
 
+**Tecnologías:**  
 <img src="https://img.shields.io/badge/-Web_scraping-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Chatbots-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-API-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Dashboard_de_métricas-1a1a2e?style=flat-square" />
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br/>
 
-#### <a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>
+#### [Mercy](https://github.com/joshualeba/Mercy_React)
 
-Plataforma web de educación y simulación financiera, construida con Flask y PostgreSQL. Incluye simuladores de ahorro, crédito, inversión, presupuesto personal y retiro, más una calculadora de deuda y un diagnóstico financiero con recomendaciones. Tiene un chatbot con IA (API de Groq) para resolver dudas, un test de conocimientos con ranking global, una comparativa de SOFIPOs en tiempo real, y un panel administrativo para gestionar usuarios y contenido.
+> **Plataforma web avanzada de educación, simulación y salud financiera.**
 
+- **Simuladores financieros:** Herramientas interactivas para ahorro, crédito, inversión, retiro y presupuesto personal.
+- **Asistente IA integrado:** Chatbot inteligente potenciado por la API de Groq para resolver dudas al instante.
+- **Gamificación y ranking:** Test de conocimientos con ranking global para motivar el aprendizaje constante.
+- **Datos en tiempo real:** Comparativa de SOFIPOs y diagnósticos financieros con recomendaciones personalizadas.
+- **Panel administrativo:** Gestión centralizada de usuarios, métricas y contenido del sistema.
+
+**Tecnologías:**  
 <img src="https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-IA_con_Groq-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Panel_admin-1a1a2e?style=flat-square" />
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br/>
 
-#### <a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>
+#### [Mercy Math](https://github.com/joshualeba/MercyMathApp)
 
-App educativa de matemáticas, desarrollada con React Native, Expo y TypeScript. Tiene 50 niveles con dificultad progresiva: empieza con cálculo directo de áreas y perímetros, avanza a figuras geométricas más complejas, y termina con despejes algebraicos donde el jugador resuelve la variable faltante. Incluye sistema de logros, avatares desbloqueables y rachas diarias. Usa Firebase para autenticación y almacenamiento de datos.
+> **Aplicación móvil educativa diseñada para dominar las matemáticas de forma progresiva y entretenida.**
 
+- **50 niveles de dificultad:** Progresión desde cálculo de áreas básicas hasta complejos despejes algebraicos.
+- **Sistema de retención:** Recompensas, avatares desbloqueables y rachas diarias para mantener al usuario enganchado.
+- **Experiencia nativa:** Rendimiento fluido y diseño responsivo para dispositivos móviles.
+- **Cloud storage:** Sincronización en la nube mediante Firebase para autenticación segura y guardado de progreso.
+
+**Tecnologías:**  
 <img src="https://img.shields.io/badge/-React_Native-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Expo-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square" />
 
-</td>
-</tr>
-</table>
 
 ### Estadísticas de GitHub
 
@@ -81,7 +116,7 @@ App educativa de matemáticas, desarrollada con React Native, Expo y TypeScript.
 </details>
 
 <details>
-<summary><b>🇺🇸 View in English</b></summary>
+<summary><b>View in English</b></summary>
 
 <br/>
 
@@ -91,53 +126,88 @@ I'm studying computer systems engineering at Universidad Politécnica de Querét
 
 <div align="center">
 
-| Frontend | Backend | Data | Infra & tools |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="32"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="32"/> |
-| <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="32"/> | | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/> |
-| | | | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="32"/> |
+  <h4>Frontend</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <br/>
+  
+  <h4>Backend</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+  <br/>
+
+  <h4>Data</h4>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+  <br/>
+
+  <h4>Infrastructure and tools</h4>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+  <br/>
+
+  <h4>Marketing</h4>
+  <img src="https://img.shields.io/badge/Meta_Ads-0468D7?style=for-the-badge&logo=meta&logoColor=white" />
 
 </div>
 
 ### Things I've built
 
-<table>
-<tr>
-<td width="100%">
+#### [BLAJ Digital Panel](https://github.com/joshualeba/BLAJ_chatbot)
 
-#### <a href="https://blaj-chatbot.vercel.app/login" target="_blank" rel="noopener noreferrer">BLAJ Digital panel</a>
+> **Comprehensive internal system for managing and automating clients at the BLAJ Digital agency.**
 
-Internal panel I use to manage BLAJ Digital's clients. It scrapes websites to pull data without doing it by hand, generates chatbots from whatever information each client provides, and exposes an API to connect external forms to the system. It includes a metrics view to check the state of everything from one place.
+- **Autonomous web scraping:** Automatic data extraction directly from client websites.
+- **Chatbot generation:** Dynamic creation of AI-powered virtual assistants based on collected data.
+- **Restful API:** Seamless integration to connect external forms directly with the system.
+- **Analytical dashboard:** Centralized view of real-time metrics for internal decision making.
 
+**Technologies:**  
 <img src="https://img.shields.io/badge/-Web_scraping-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Chatbots-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-API-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Metrics_dashboard-1a1a2e?style=flat-square" />
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br/>
 
-#### <a href="https://github.com/joshualeba/Mercy_React" target="_blank" rel="noopener noreferrer">Mercy</a>
+#### [Mercy](https://github.com/joshualeba/Mercy_React)
 
-Financial education and simulation web platform, built with Flask and PostgreSQL. It includes simulators for savings, credit, investing, personal budgeting, and retirement, plus a debt calculator and a financial diagnostic tool with recommendations. It has an AI chatbot (Groq API) for answering questions, a knowledge quiz with a global ranking, a real-time SOFIPO comparison, and an admin panel for managing users and content.
+> **Advanced web platform for financial education, simulation, and health.**
 
+- **Financial simulators:** Interactive tools for savings, credit, investing, retirement, and personal budgeting.
+- **Integrated AI assistant:** Smart chatbot powered by the Groq API to resolve doubts instantly.
+- **Gamification and ranking:** Knowledge quizzes with a global leaderboard to motivate consistent learning.
+- **Real-time data:** Live SOFIPO comparisons and financial diagnostics with personalized recommendations.
+- **Administrative panel:** Centralized management of users, system metrics, and content.
+
+**Technologies:**  
 <img src="https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Groq_AI-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Admin_panel-1a1a2e?style=flat-square" />
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br/>
 
-#### <a href="https://github.com/joshualeba/MercyMathApp" target="_blank" rel="noopener noreferrer">Mercy Math</a>
+#### [Mercy Math](https://github.com/joshualeba/MercyMathApp)
 
-Educational math app, built with React Native, Expo, and TypeScript. It has 50 levels with progressive difficulty: it starts with direct calculation of areas and perimeters, moves on to more complex geometric shapes, and ends with algebraic solving where the player finds the missing variable. It includes an achievement system, unlockable avatars, and daily streaks. Uses Firebase for authentication and data storage.
+> **Educational mobile app designed to master mathematics in a progressive and fun way.**
 
+- **50 difficulty levels:** Progression from basic area calculations to complex algebraic equations.
+- **Retention system:** Rewards, unlockable avatars, and daily streaks to keep users engaged.
+- **Native experience:** Smooth performance and highly responsive design for mobile devices.
+- **Cloud storage:** Cloud synchronization using Firebase for secure authentication and progress saving.
+
+**Technologies:**  
 <img src="https://img.shields.io/badge/-React_Native-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Expo-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square" />
 
-</td>
-</tr>
-</table>
 
 ### GitHub stats
 
