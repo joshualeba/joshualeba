@@ -17,7 +17,7 @@
 
 <br/>
 
-Estudio ingeniería en sistemas computacionales en la Universidad Politécnica de Querétaro, y desde hace tiempo me dedico a construir cosas de principio a fin: diseño la interfaz, escribo el backend, armo la base de datos y también la despliego en AWS. Actualmente dirijo **BLAJ Digital**, una agencia donde ayudo a negocios locales a tener presencia digital de verdad, sin complicarles la vida.
+Estudio ingeniería en sistemas computacionales en la Universidad Politécnica de Querétaro, y desde hace tiempo me dedico a construir software de principio a fin: diseño la interfaz, construyo la lógica del servidor, modelo las bases de datos y administro el despliegue en AWS. Actualmente dirijo **BLAJ Digital**, una agencia enfocada en otorgar infraestructura tecnológica y automatización a negocios locales.
 
 ### Stack técnico
 
@@ -64,47 +64,60 @@ Estudio ingeniería en sistemas computacionales en la Universidad Politécnica d
 
 ### Lo que he construido
 
-#### [Panel BLAJ Digital](https://github.com/joshualeba/BLAJ_chatbot)
-
-> **Sistema interno integral para la administración y automatización de clientes de la agencia BLAJ Digital.**
-
-- **Web scraping autónomo:** Extracción automática de datos desde los sitios web de los clientes.
-- **Generación de chatbots:** Creación dinámica de asistentes virtuales con IA basados en la información recolectada.
-- **API Restful:** Integración perfecta para conectar formularios externos con el sistema.
-- **Dashboard analítico:** Vista centralizada de métricas en tiempo real para evaluar el estado global de la agencia.
-
-**Tecnologías:**  
-<img src="https://img.shields.io/badge/-Web_scraping-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Chatbots-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-API-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Dashboard_de_métricas-1a1a2e?style=flat-square" />
-
-<br/>
-
-#### [Mercy](https://github.com/joshualeba/Mercy_React)
-
-> **Plataforma web avanzada de educación, simulación y salud financiera.**
-
-- **Simuladores financieros:** Herramientas interactivas para ahorro, crédito, inversión, retiro y presupuesto personal.
-- **Asistente IA integrado:** Chatbot inteligente potenciado por la API de Groq para resolver dudas al instante.
-- **Gamificación y ranking:** Test de conocimientos con ranking global para motivar el aprendizaje constante.
-- **Datos en tiempo real:** Comparativa de SOFIPOs y diagnósticos financieros con recomendaciones personalizadas.
-- **Panel administrativo:** Gestión centralizada de usuarios, métricas y contenido del sistema.
-
-**Tecnologías:**  
-<img src="https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-IA_con_Groq-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Panel_admin-1a1a2e?style=flat-square" />
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/joshualeba/BLAJ_chatbot"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
+    </td>
+    <td width="75%">
+      <h3><a href="https://github.com/joshualeba/BLAJ_chatbot">Panel BLAJ Digital</a></h3>
+      <p>Desarrollé este sistema central para optimizar las operaciones de la agencia BLAJ Digital. La plataforma automatiza la extracción de datos de prospectos mediante web scraping, procesa la información para crear asistentes conversacionales (chatbots) personalizados y ofrece una API Restful para la integración de formularios externos. Cuenta con un dashboard que consolida métricas clave, eliminando horas de trabajo manual y facilitando decisiones basadas en datos.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Web_Scraping-1a1a2e?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/IA_%26_Chatbots-1a1a2e?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/API_Restful-1a1a2e?style=flat-square&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Métricas-1a1a2e?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-#### [Mercy Math](https://github.com/joshualeba/MercyMathApp)
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/joshualeba/Mercy_React"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1769711039/logo_qp8c8w.png" width="120" /></a>
+    </td>
+    <td width="75%">
+      <h3><a href="https://github.com/joshualeba/Mercy_React">Mercy</a></h3>
+      <p>Plataforma web enfocada en combatir la desinformación económica mediante educación y simulación interactiva. Incorpora herramientas de proyección para ahorro y crédito, y diagnósticos financieros precisos. Para escalar la atención, integré un asistente inteligente con la API de Groq que resuelve dudas en tiempo real. Se complementa con dinámicas de gamificación, comparativas de rendimiento (SOFIPOs) y un robusto backoffice para la administración del ecosistema.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq_API-F37626?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Backoffice-1a1a2e?style=flat-square&logo=react&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-> **Aplicación móvil educativa diseñada para dominar las matemáticas de forma progresiva y entretenida.**
+<br/>
 
-- **50 niveles de dificultad:** Progresión desde cálculo de áreas básicas hasta complejos despejes algebraicos.
-- **Sistema de retención:** Recompensas, avatares desbloqueables y rachas diarias para mantener al usuario enganchado.
-- **Experiencia nativa:** Rendimiento fluido y diseño responsivo para dispositivos móviles.
-- **Cloud storage:** Sincronización en la nube mediante Firebase para autenticación segura y guardado de progreso.
-
-**Tecnologías:**  
-<img src="https://img.shields.io/badge/-React_Native-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Expo-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square" />
-
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/joshualeba/MercyMathApp"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1769711039/logo_qp8c8w.png" width="120" /></a>
+    </td>
+    <td width="75%">
+      <h3><a href="https://github.com/joshualeba/MercyMathApp">Mercy Math</a></h3>
+      <p>Aplicación móvil desarrollada desde cero para transformar el aprendizaje de matemáticas aplicadas. A través de 50 niveles de dificultad progresiva, mantiene el interés del estudiante con mecánicas de retención como rachas diarias, avatares y recompensas. Todo el progreso y la autenticación se gestionan de forma segura en la nube, garantizando una experiencia nativa rápida, estable y centrada en el usuario.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ### Estadísticas de GitHub
 
@@ -120,7 +133,7 @@ Estudio ingeniería en sistemas computacionales en la Universidad Politécnica d
 
 <br/>
 
-I'm studying computer systems engineering at Universidad Politécnica de Querétaro, and for a while now I've been building things from the ground up: the interface, the backend, the database, and deploying it all on AWS. I currently run **BLAJ Digital**, an agency where I help local businesses get a real digital presence without making things complicated for them.
+I'm studying computer systems engineering at Universidad Politécnica de Querétaro, and for a while now I've been building software from the ground up: I design the interfaces, build the server logic, model the databases, and manage the AWS deployments. I currently run **BLAJ Digital**, an agency focused on bringing technological infrastructure and automation to local businesses.
 
 ### Technical stack
 
@@ -167,47 +180,60 @@ I'm studying computer systems engineering at Universidad Politécnica de Querét
 
 ### Things I've built
 
-#### [BLAJ Digital Panel](https://github.com/joshualeba/BLAJ_chatbot)
-
-> **Comprehensive internal system for managing and automating clients at the BLAJ Digital agency.**
-
-- **Autonomous web scraping:** Automatic data extraction directly from client websites.
-- **Chatbot generation:** Dynamic creation of AI-powered virtual assistants based on collected data.
-- **Restful API:** Seamless integration to connect external forms directly with the system.
-- **Analytical dashboard:** Centralized view of real-time metrics for internal decision making.
-
-**Technologies:**  
-<img src="https://img.shields.io/badge/-Web_scraping-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Chatbots-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-API-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Metrics_dashboard-1a1a2e?style=flat-square" />
-
-<br/>
-
-#### [Mercy](https://github.com/joshualeba/Mercy_React)
-
-> **Advanced web platform for financial education, simulation, and health.**
-
-- **Financial simulators:** Interactive tools for savings, credit, investing, retirement, and personal budgeting.
-- **Integrated AI assistant:** Smart chatbot powered by the Groq API to resolve doubts instantly.
-- **Gamification and ranking:** Knowledge quizzes with a global leaderboard to motivate consistent learning.
-- **Real-time data:** Live SOFIPO comparisons and financial diagnostics with personalized recommendations.
-- **Administrative panel:** Centralized management of users, system metrics, and content.
-
-**Technologies:**  
-<img src="https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Groq_AI-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Admin_panel-1a1a2e?style=flat-square" />
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/joshualeba/BLAJ_chatbot"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
+    </td>
+    <td width="75%">
+      <h3><a href="https://github.com/joshualeba/BLAJ_chatbot">BLAJ Digital Panel</a></h3>
+      <p>I engineered this core system to streamline operations for the BLAJ Digital agency. The platform automates data extraction from prospect websites via web scraping, processes this data to generate tailored virtual assistants (chatbots), and provides a Restful API for seamless integration with external forms. It features a centralized metrics dashboard that eliminates hours of manual tracking and enables data-driven decision making.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Web_Scraping-1a1a2e?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_%26_Chatbots-1a1a2e?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Restful_API-1a1a2e?style=flat-square&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Metrics-1a1a2e?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-#### [Mercy Math](https://github.com/joshualeba/MercyMathApp)
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/joshualeba/Mercy_React"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1769711039/logo_qp8c8w.png" width="120" /></a>
+    </td>
+    <td width="75%">
+      <h3><a href="https://github.com/joshualeba/Mercy_React">Mercy</a></h3>
+      <p>A web platform focused on combating financial misinformation through interactive education and simulation. It features projection tools for savings and credit, alongside precise financial diagnostics. To scale user support, I integrated an intelligent assistant using the Groq API that resolves queries in real time. The ecosystem is reinforced by gamification mechanics, investment comparisons (SOFIPOs), and a comprehensive backoffice for administrative control.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq_API-F37626?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Backoffice-1a1a2e?style=flat-square&logo=react&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-> **Educational mobile app designed to master mathematics in a progressive and fun way.**
+<br/>
 
-- **50 difficulty levels:** Progression from basic area calculations to complex algebraic equations.
-- **Retention system:** Rewards, unlockable avatars, and daily streaks to keep users engaged.
-- **Native experience:** Smooth performance and highly responsive design for mobile devices.
-- **Cloud storage:** Cloud synchronization using Firebase for secure authentication and progress saving.
-
-**Technologies:**  
-<img src="https://img.shields.io/badge/-React_Native-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Expo-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square" />
-
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/joshualeba/MercyMathApp"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1769711039/logo_qp8c8w.png" width="120" /></a>
+    </td>
+    <td width="75%">
+      <h3><a href="https://github.com/joshualeba/MercyMathApp">Mercy Math</a></h3>
+      <p>A mobile application built from scratch to transform how students practice applied mathematics. Across 50 progressive difficulty levels, the app sustains user engagement through retention mechanics like daily streaks, unlockable avatars, and rewards. All progress and authentication are securely managed in the cloud, delivering a fast, stable, and user-centric native experience.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ### GitHub stats
 
