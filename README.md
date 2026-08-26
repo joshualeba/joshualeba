@@ -70,7 +70,7 @@ Estudio ingeniería en sistemas computacionales en la Universidad Politécnica d
       <a href="https://github.com/joshualeba/blaj-studio"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
     </td>
     <td width="75%">
-      <h3><a href="https://github.com/joshualeba/BLAJ_chatbot">Panel BLAJ Digital</a></h3>
+      <h3><a href="https://github.com/joshualeba/blaj-studio">Panel BLAJ Digital</a></h3>
       <p>Desarrollé este sistema central para optimizar las operaciones de la agencia BLAJ Digital. La plataforma automatiza la extracción de datos de prospectos mediante web scraping, procesa la información para crear asistentes conversacionales (chatbots) personalizados y ofrece una API Restful para la integración de formularios externos. Cuenta con un dashboard que consolida métricas clave, eliminando horas de trabajo manual y facilitando decisiones basadas en datos.</p>
       <br/>
       <img src="https://img.shields.io/badge/Web_Scraping-1a1a2e?style=flat-square&logo=python&logoColor=white" />
