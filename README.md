@@ -67,7 +67,7 @@ Estudio ingeniería en sistemas computacionales en la Universidad Politécnica d
 <table width="100%">
   <tr>
     <td width="25%" align="center">
-      <a href="https://github.com/joshualeba/BLAJ_chatbot"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
+      <a href="https://github.com/joshualeba/blaj-studio"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
     </td>
     <td width="75%">
       <h3><a href="https://github.com/joshualeba/BLAJ_chatbot">Panel BLAJ Digital</a></h3>
@@ -183,7 +183,7 @@ I'm studying computer systems engineering at Universidad Politécnica de Querét
 <table width="100%">
   <tr>
     <td width="25%" align="center">
-      <a href="https://github.com/joshualeba/BLAJ_chatbot"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
+      <a href="https://github.com/joshualeba/blaj-studio"><img src="https://res.cloudinary.com/dpvm2gro2/image/upload/v1768845812/logo_fqrwqj.png" width="120" /></a>
     </td>
     <td width="75%">
       <h3><a href="https://github.com/joshualeba/BLAJ_chatbot">BLAJ Digital Panel</a></h3>
